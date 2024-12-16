@@ -4,13 +4,14 @@
   <artifactId>test-clone</artifactId>
   <version>0.0.1-SNAPSHOT</version>
     <dependencies>
+    <!-- testng dependency-->
   <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.10.2</version>
     <scope>test</scope>
 </dependency>
-
+   <!-- selenium java dependency-->
   <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
