@@ -11,5 +11,11 @@
     <version>7.10.2</version>
     <scope>test</scope>
 </dependency>
+<!-- selenium java dependency-->
+  <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.27.0</version>
+</dependency>
   </dependencies>
 </project>
